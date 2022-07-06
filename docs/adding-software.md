@@ -17,7 +17,7 @@ Next, you can add additional information in the 7 sections explained below.
 
 ## Software information
 
-In this section you can provide the basic information about the software, namely: 
+In this section you can provide the basic information about the software: 
 
 - A URL for the main webpage of the software. This link will show up as the "Get started" button on the software page. 
 - A URL for source code repository of the software. This link will show up as a repository icon on the software page and will be used to harvest information about the software development activity, which will be shown as a graph. At the moment we support [github](), [gitlab]() and have limited support for [bitbucket](). 
