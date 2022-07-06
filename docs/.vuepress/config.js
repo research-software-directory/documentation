@@ -34,12 +34,8 @@ module.exports = {
     sidebar: [
       'introduction',
       'getting-started',
-      'scrapers',
-      'api',
-      'release',
-      'contributors',
-      'embed',
-      // 'code-of-conduct',
+      'adding-software',
+      'adding-projects',
     ],
   },
 
