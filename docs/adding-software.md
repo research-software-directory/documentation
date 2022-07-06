@@ -26,18 +26,28 @@ In this section you can provide the basic information about the software:
 - Keywords describing the software. These will be shown in the sidebar of the software page. If you have provided a concept DOI, the keywords can also be imported from the archive metadata. 
 - The license of the software. This will be shown in the sidebar of the software page. If you have provided a concept DOI, the keywords can also be imported from the archive metadata. 
 
-TODO: add video
+![image](/software-information.gif)
 
 ### Contributors
 
+![image](/contributors.gif)
+
 ### Organizations
+
+![image](/organizations.gif)
 
 ### Mentions
 
+![image](/mentions.gif)
+
 ### Testimonials
 
-### Related topics
+![image](/testimonials.gif)
+
+### The finished page
+
+![image](/finale.gif)
 
 ### Maintainers
 
-
+TODO
