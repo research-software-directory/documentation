@@ -7,118 +7,29 @@ SPDX-License-Identifier: CC-BY-4.0
 
 # Getting Started
 
-## Dependencies
+The Research Software Directory can be found at: 
 
-To run the application locally you need to install the following dependencies:
+[https://research-software-directory.org/](https://research-software-directory.org/)
 
-*   Docker
+On this page, you will find links to the [research software](https://research-software-directory.org/software) recorded in the RSD, the 
+[research projects](https://research-software-directory.org/projects) in which this software was used or developed, and the 
+[organizations](https://research-software-directory.org/organizations) who contributed to this software. 
 
-## Get Started
+All information recorded in the RSD about software, projects and organizations is public, since our goal is to promote the visibility, 
+impact and reuse of research software. Anyone can browse through this information and it is indexed by search engines.  
 
-### Monorepo
+## Signing in 
 
-The RSD-as-a-Service project is a divided into different services included in the mono repo:
+To add information to the RSD, you must first sign in to the platform. At the moment we support a single identity provider:
 
-|-- authentication  
-|-- backend-postgrest  
-|-- data-migration  
-|-- database  
-|-- deployment  
-|-- documentation  
-|-- frontend  
-|-- nginx  
-|-- scrapers
+* [SurfConext](https://www.surf.nl/en/surfconext-global-access-with-1-set-of-credentials) 
+ 
+We plan to increase the set of identity providers in the near future.
 
-### Environment variables
+To sign in, go to the sign in button at the top right corner of the page, select your identity provider, and enter your credentials: 
 
-The environment variables should be stored in a .env file, which is automatically loaded by docker-compose. To validate loading of env variables use `docker-compose config`. More info about the use of environment variables in docker-compose is available at [official documentation](https://docs.docker.com/compose/environment-variables/)
+![image](/sign-in.png)
 
-*   copy the file `.env.example` to `.env` file at the root of the project
+If you sign in to the RSD for the first time, your identify provider may ask you permission to share information with the RSD.  
 
-```bash
-# from project root dir
-cp .env.example .env
-```
 
-*   You need to modify the new .env file with the corresponding value secrets.
-*   build local images
-
-```bash
-# from project root dir
-docker-compose build
-```
-
-## Running locally
-
-Run the command `docker-compose up`.
-
-```bash
-# from project root dir
-docker-compose up
-```
-
-The application can be viewed at http://localhost
-
-### Frontend with hot-module-replacement (HMR)
-
-To run the frontend in the development mode with the hot-module-replacement (HMR) you should start an additional instance of the frontend which will be available at http://localhost:3000
-
-```bash
-# navigate to frontend folder
-cd frontend
-# install dependencies
-yarn install
-# start fe in dev mode
-yarn dev
-```
-
-More information about the frontend setup is [available in the frontend readme file](/frontend/README.md).
-
-### Documentation site
-
-The documentation site runs on GitHub Pages. Any changes inside this folder will trigger a GitHub action to deploy the changes automatically when merging a Pull Request to the main branch.
-
-To run locally the documentation site, you need `nodejs` installed on your machine.
-
-```bash
-# navigate to frontend folder
-cd documentation
-# install dependencies
-yarn install
-# start fe in dev mode
-yarn dev
-```
-
-All documentation files written in Markdown are placed inside the `./documentation/docs/` folder.
-
-You can edit the `navigation bar` and the `sidebar` from the `./doumentation/docs/.vuepress/config.js` file.
-
-Any file `markdown file` added indie the `docs` folder will be available on built time.
-
-## Clear/remove data (reset)
-
-To clear the database, if the database structure has changed or you need to run data migration again, run the command:
-
-```bash
-docker-compose down --volumes
-```
-
-## Data migration
-
-A data migration script is available to migrate data from the legacy RSD to the new one:
-
-*   run current RSD solution using `docker-compose up` from the root of the project
-*   run the migration script using docker-compose file in the data-migration folder
-
-```bash
-# navigate to data-migration folder
-cd data-migration
-# run data migration docker-compose file
-docker-compose up
-```
-
-More information about [data migration is available here](data-migration/README.md).
-
-## Tech Stack
-
-![image](/rsd-stack-220304.png)
