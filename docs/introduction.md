@@ -7,18 +7,12 @@ SPDX-License-Identifier: CC-BY-4.0
 
 # Introduction
 
-Documenting the RSD as a service covers the following types of documentation:
+Welcome to the user documentation of the [Research Software Directory](https://research-software-directory.org)!
 
-*   Requirements documentation: Get started.
-*   Architecture and Technical documentation: a global picture of the technology stack plus code-based helper comments.
-*   End-user documentation: organizations and user guides.
+The Research Software Directory (RSD) a content management system tailored to creating web pages that present Research Software.  
+Our goal is to improve the findability and re-use of research software, show the impact this software has on research projects, 
+and ensure that the people who are developing the software get credited for their work. 
 
-## Documenting the RSD
+More information about the concepts behind the RSD can be found in this excellent 
+[blog](https://blog.esciencecenter.nl/the-research-software-directory-and-how-it-promotes-software-citation-4bd2137a6b8).
 
-It is required to always update the documentation when needed as defined in the pull request template.
-
-## This documentation site
-
-We use [Vuepress](https://v2.vuepress.vuejs.org/) to populate this documentation site.  
-Is based on Markdown files with extra features supported like HTML in markdown, components, frontmatter, etc.  
-you can run the project locally following the [getting-started steps](/getting-started.html#documentation-site)
