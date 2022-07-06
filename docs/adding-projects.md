@@ -11,20 +11,5 @@ SPDX-License-Identifier: CC-BY-4.0
 
 Todo
 
-![image](/rsd-stack-220304.png)
-
-*   Todo
-
-## Adding basic information
-
-Todo
-
-### Short description
-
-### Repo URL
-
-### Getting started page
-
-## todo
 
 

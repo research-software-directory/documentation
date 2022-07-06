@@ -28,7 +28,7 @@ In this section you can provide the basic information about the software:
 
 ![image](/software-information.gif)
 
-### Contributors
+## Contributors
 
 In this section, you can provide more information on who contributed to the software. This section can be used to list the developers, designers, community managers, etc. If you 
 have provided a **concept DOI** in the previous section, you can import the contributors from the DOI metadata by clicking the "import contributors" button. Alternatively / 
@@ -39,32 +39,32 @@ add a role and affiliation to the contributor, and select one contributor as a "
 
 The contributors you add will show up in the contributors section of the software page.
 
-### Organizations
+## Organizations
 
 In this section, you can list which organizations contributed to the developement of the software. You can use the search bar underneath "Add organization" to search for 
 organizations already registered in the RSD or in the [ROR](https://ROR.org) database. 
 
 ![image](/organizations.gif)
 
-### Mentions
+## Mentions
 
 This section allows you to add mentions to your software page. You can use this to list publications, presentations, videos, blogs, etc. that prominently feature your software, or the results produced by your software. 
 To add a mention, you can use the search bar below "Find publication" to search for a DOI or publication title in the RSD, [Crossref](https://www.crossref.org/) or [Datacite](https://datacite.org/). All the relevant data about the publication will be retrieved automatically. For publications without a DOI (typically blogs or webpages), it is also possible to manually add a mention.  
 
 ![image](/mentions.gif)
 
-### Testimonials
+## Testimonials
 
 This section allows user testimonials to be added to the software page. A testimonial consist of a quote and a source. 
 
 ![image](/testimonials.gif)
 
-### The finished page
+## The finished page
 
 Once you are satisfied with the data you have entered for the different sections, you can publish the software page to make it publicly available. Don't hesitate to update and extend the page later!
 
 ![image](/finale.gif)
 
-### Maintainers
+## Maintainers
 
 TODO
