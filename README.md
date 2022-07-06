@@ -1,6 +1,6 @@
 # Documenting the RSD
 
-[Visit the documentation here.](https://research-software-directory.github.io/RSD-as-a-service/)
+[Visit the documentation here.](https://research-software-directory.github.io/documentation)
 
 Any changes merge to the main branch will trigger automatically a build deploy to github pages.
 
