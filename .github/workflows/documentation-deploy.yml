@@ -44,13 +44,13 @@ jobs:
       # install dependencies if the cache did not hit
       - name: Install dependencies
         if: steps.yarn-cache.outputs.cache-hit != 'true'
-        working-directory: documentation
+        # working-directory: documentation
         run:
           yarn --frozen-lockfile
 
       # run build script
       - name: Build VuePress site
-        working-directory: documentation
+        # working-directory: documentation
         run:
           yarn docs:build
 
@@ -62,7 +62,7 @@ jobs:
           # deploy to gh-pages branch
           target_branch: gh-pages
           # deploy the default output dir of VuePress
-          build_dir: documentation/docs/.vuepress/dist
+          build_dir: docs/.vuepress/dist
         env:
           # @see https://docs.github.com/en/actions/reference/authentication-in-a-workflow#about-the-github_token-secret
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
