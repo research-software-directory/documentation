@@ -8,10 +8,10 @@ name: documentation deploy
 on:
   # trigger deployment on every push to main branch
   push:
-    branches: 
+    branches:
       - main
     paths:
-      - "documentation/**"
+      - "docs/**"
   workflow_dispatch:
 
 jobs:
@@ -45,13 +45,13 @@ jobs:
       - name: Install dependencies
         if: steps.yarn-cache.outputs.cache-hit != 'true'
         working-directory: documentation
-        run: 
+        run:
           yarn --frozen-lockfile
 
       # run build script
       - name: Build VuePress site
         working-directory: documentation
-        run: 
+        run:
           yarn docs:build
 
       # please check out the docs of the workflow for more details
