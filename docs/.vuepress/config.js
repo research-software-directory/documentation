@@ -8,14 +8,14 @@ module.exports = {
   lang: 'en-US',
   title: 'RSD Documentation',
   description: 'RSD As a Service documentation',
-  base: '/RSD-as-a-service/',
+  base: '/documentation/',
   port: '3030',
 
   themeConfig: {
     logo: '/images/circle.webp',
     // logoDark: '/images/heroDark.webp',
-    repo: 'research-software-directory/RSD-as-a-service',
-    docsDir: 'documentation/docs',
+    repo: 'research-software-directory/documentation',
+    docsDir: 'docs',
     docsBranch: 'main',
     displayAllHeaders: true, // Default: false
 
