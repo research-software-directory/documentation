@@ -28,7 +28,7 @@ We plan to increase the set of identity providers in the near future.
 
 To sign in, go to the "sign in" button at the top right corner of the page, select your identity provider, and enter your credentials: 
 
-![image](/sign-in.png)
+![image](/sign-in.gif)
 
 If you sign in to the RSD for the first time, your identify provider may ask you permission to share information with the RSD. 
 
@@ -36,5 +36,5 @@ If you sign in to the RSD for the first time, your identify provider may ask you
 
 To sign out, you can use the profile button the top right corner of the page and select "sign-out".
 
-![image](/sign-out.png)
+![image](/sign-out.gif)
 
