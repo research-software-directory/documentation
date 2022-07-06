@@ -26,10 +26,15 @@ To add information to the RSD, you must first sign in to the platform. At the mo
  
 We plan to increase the set of identity providers in the near future.
 
-To sign in, go to the sign in button at the top right corner of the page, select your identity provider, and enter your credentials: 
+To sign in, go to the "sign in" button at the top right corner of the page, select your identity provider, and enter your credentials: 
 
 ![image](/sign-in.png)
 
-If you sign in to the RSD for the first time, your identify provider may ask you permission to share information with the RSD.  
+If you sign in to the RSD for the first time, your identify provider may ask you permission to share information with the RSD. 
 
+## Signing out
+
+To sign out, you can use the profile button the top right corner of the page and select "sign-out".
+
+![image](/sign-out.png)
 
