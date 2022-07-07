@@ -1,0 +1,1 @@
+const e={key:"v-7fe5f7ab",path:"/scrapers.html",title:"Data Scraping",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1657095699e3,contributors:[{name:"Jesu\u0301s Garci\u0301a",email:"ctw@ctwhome.com",commits:1}]},filePathRelative:"scrapers.md"};export{e as data};

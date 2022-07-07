@@ -1,0 +1,1 @@
+const t={key:"v-123dff2c",path:"/navigation.html",title:"Navigating the RSD",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1657095699e3,contributors:[{name:"Jesu\u0301s Garci\u0301a",email:"ctw@ctwhome.com",commits:1}]},filePathRelative:"navigation.md"};export{t as data};
