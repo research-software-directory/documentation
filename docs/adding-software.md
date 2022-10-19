@@ -41,7 +41,7 @@ The contributors you add will show up in the contributors section of the softwar
 
 ## Organizations
 
-In this section, you can list which organizations contributed to the developement of the software. You can use the search bar underneath "Add organization" to search for 
+In this section, you can list which organizations contributed to the development of the software. You can use the search bar underneath "Add organization" to search for 
 organizations already registered in the RSD or in the [ROR](https://ROR.org) database. 
 
 ![image](/organizations.gif)

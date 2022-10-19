@@ -26,7 +26,7 @@ Follow these steps to call release action.
   - frontend: build, tag and push docker image to ghcr.io
   - nginx: build, tag and push docker image to ghcr.io
   - scrapers: build, tag and push docker image to ghcr.io
-- create docker-compose.yml for relase that uses images created in the previous step
+- create docker-compose.yml for release that uses images created in the previous step
 - update citation file with new version number and release date
 - make deployment.zip file where all files needed for deployment are included
 - commit new CITATION.cff file with message 'release: update citation file'
@@ -45,6 +45,6 @@ If you need to remove tag from the repository use following commands.
 git tag -d {tag}
 # remove from origin
 git push origin --delete {tag}
-# or more specificaly
+# or more specifically
 git push origin :refs/tags/{tag}
 ```
