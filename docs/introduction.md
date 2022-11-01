@@ -9,8 +9,11 @@ SPDX-License-Identifier: CC-BY-4.0
 
 Welcome to the user documentation of the [Research Software Directory](https://research-software-directory.org)!
 
-The Research Software Directory (RSD) a content management system tailored to creating web pages that present Research Software. Our goal is to improve the findability and re-use of research software, show the impact this software has on research projects, 
-and ensure that the people and organizations who are developing the research software get credit for their work. 
+Research software is one of the most important scientific instruments available today. Data-intensive research and computational simulation are the foundation of many scientific 
+discoveries.
+
+The Research Software Directory is content management system designed to show the impact research software has on research and society. We stimulate the reuse of research software 
+and encourage proper citation of research software to ensure researchers and RSEs get credit for their work.
 
 More information about the concepts behind the RSD can be found in this excellent 
 [blog](https://blog.esciencecenter.nl/the-research-software-directory-and-how-it-promotes-software-citation-4bd2137a6b8).
