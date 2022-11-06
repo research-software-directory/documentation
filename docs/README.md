@@ -7,11 +7,11 @@ heroImage: /images/circle.webp
 # heroImageDark: /images/heroDark.webp
 
 actions:
-  - text: Get Started
-    link: /getting-started.html
+  - text: Getting started
+    link: /introduction.html
     type: primary
-  - text: Introduction
-    link: /introduction/
+  - text: FAQ
+    link: /faq.html
     type: secondary
 features:
   - title: Discover

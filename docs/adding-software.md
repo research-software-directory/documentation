@@ -1,5 +1,5 @@
 <!--
-SPDX-FileCopyrightText: 2022 Jesús García Gonzalez (Netherlands eScience Center) <j.g.gonzalez@esciencecenter.nl>
+SPDX-FileCopyrightText: 2022 Jason Maassen (Netherlands eScience Center) <j.maassen@esciencecenter.nl>
 SPDX-FileCopyrightText: 2022 Netherlands eScience Center
 
 SPDX-License-Identifier: CC-BY-4.0
@@ -15,7 +15,7 @@ To create a new software page, you must provide a name for your software and a s
 
 Next, you can add additional information in the 7 sections explained below. 
 
-## Software information
+## Basic information
 
 In this section you can provide the basic information about the software: 
 
@@ -61,10 +61,26 @@ This section allows user testimonials to be added to the software page. A testim
 
 ## The finished page
 
-Once you are satisfied with the data you have entered for the different sections, you can publish the software page to make it publicly available. Don't hesitate to update and extend the page later!
+Once you are satisfied with the data you have entered for the different sections, you can publish the software page to make it publicly available. Don't hesitate to update and 
+extend the page later!
 
 ![image](/finale.gif)
 
 ## Maintainers
 
 TODO
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+

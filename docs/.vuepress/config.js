@@ -17,7 +17,7 @@ module.exports = {
     repo: 'research-software-directory/documentation',
     docsDir: 'docs',
     docsBranch: 'main',
-    displayAllHeaders: true, // Default: false
+    displayAllHeaders: false, // Default: false
 
     navbar: [
       {
@@ -33,9 +33,11 @@ module.exports = {
 
     sidebar: [
       'introduction',
-      'getting-started',
+      'navigation',
+      'sign-in',
       'adding-software',
       'adding-projects',
+      'faq',
     ],
   },
 

@@ -7,6 +7,9 @@ SPDX-License-Identifier: CC-BY-4.0
 
 # Getting Started
 
+
+__TEST__
+
 The Research Software Directory can be found at: 
 
 [https://research-software-directory.org/](https://research-software-directory.org/)
