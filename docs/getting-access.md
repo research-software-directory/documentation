@@ -1,4 +1,4 @@
-# How to get an access
+# How to get access 
 
 While anyone is free to browse through the content of the RSD, you'll need to be able to sign in before you can add our own content. 
 Currently, there are two ways to get access: 
@@ -8,7 +8,7 @@ Currently, there are two ways to get access:
 
 If you wish to add your organization to the RSD or claim an organization which is already listed, please have a look at how to [Register an organization](register-organization.md).
 
-## Getting an access via ORCID
+## Getting access via ORCID
 
 [ORCID](https://orcid.org/) is the Open Research and Contributor ID. It provides a unique, persistent identifier for researchers and is widely used to identify their
 contributions to research outputs (such as publications, software, data, etc.). You can use your ORCID account to get access to the RSD. However, since anyone is free
@@ -25,7 +25,7 @@ Please [contact us](mailto:rsd@esciencecenter.nl) if you wish to use ORCID to si
 
 We will then contact you to arrange access. Once your ORCID sign in is enabled, an RSD account is created automatically the first time you [sign in](getting-access.md#how-to-sign-in).
 
-## Getting an access via SURFConext
+## Getting access via SURFConext
 
 [SurfConext](https://www.surf.nl/en/surfconext-global-access-with-1-set-of-credentials) is an identity provider for Dutch research and education institutions. It can be used by 
 employees of member organizations to sign in to the RSD using their institute credentials. You can check if your organization in on the list of [SURFConext 
