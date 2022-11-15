@@ -12,15 +12,15 @@ Before you can add content to the RSD, you need to be able to sign in using one 
 * [SurfConext](https://www.surf.nl/en/surfconext-global-access-with-1-set-of-credentials) 
 * [ORCID](https://orcid.org/)
 
-More information on how to use these identify providers can be found below. 
+More information on how to get access via these identify providers can be found in [How to get an account](getting-access.md). 
 
 ## How to sign in
 
-To sign in to the RSD, go to the "sign in" button at the top right corner of the page and select the identity provider you wish to use:
+To sign in to the RSD, go to the __"Sign in"__ button at the top right corner of the page and select the identity provider you wish to use:
 
 ![image](/idp-selection.gif)
 
-If you sign in to the RSD for the first time, the identify provider may ask you permission to share information with the RSD.
+If you sign in to the RSD for the first time, the identify provider may ask you permission to share information with the RSD. 
 
 ### Signing in with SURFConext
 

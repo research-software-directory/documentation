@@ -7,7 +7,11 @@ SPDX-License-Identifier: CC-BY-4.0
 
 # Adding a project
 
-To add a project to your profile on the RSD, you can use the "+" button next to your profile button, on the top right of the page, and select "New Project" from the drop down menu.. 
+Before you can add a project, you will need have access to the RSD (see [How to get access](getting-access.md)) and [Sign in](getting-access.md#how-to-sign-in).
+
+After signing in, use the __"+"__ button next to your avatar icon on the top right of the page, and select "New Project":
+
+![image](/plus-software-projects.gif)
 
 Before the project page is created, you must provide a name and a subtitle containing for your project:
 

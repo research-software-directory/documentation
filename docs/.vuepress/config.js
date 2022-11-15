@@ -34,7 +34,9 @@ module.exports = {
     sidebar: [
       'introduction',
       'navigation',
-      'sign-in',
+      'online-demo',
+      'getting-access',
+      'register-organization',
       'adding-software',
       'adding-projects',
       'faq',
