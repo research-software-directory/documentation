@@ -1,5 +1,5 @@
 <!--
-SPDX-FileCopyrightText: 2022 Jesús García Gonzalez (Netherlands eScience Center) <j.g.gonzalez@esciencecenter.nl>
+SPDX-FileCopyrightText: 2022 Jason Maassen (Netherlands eScience Center) <j.maassen@esciencecenter.nl>
 SPDX-FileCopyrightText: 2022 Netherlands eScience Center
 
 SPDX-License-Identifier: CC-BY-4.0
@@ -7,15 +7,18 @@ SPDX-License-Identifier: CC-BY-4.0
 
 # Adding software
 
-To add software to your profile on the RSD, you can use the "+" button next to your profile button, on the top right of the page, and from the drop down menu select "New Software":
+Before you can add software, you will need have access to the RSD (see [How to get access](getting-access.md)) and [Sign in](getting-access.md#how-to-sign-in).
 
-![image](/new-software.gif)
+After signing in, you can use the __"+"__ button next to your avatar icon on the top right of the page, and from the drop down menu select "New Software":
 
-To create a new software page, you must provide a name for your software and a short description of what it does. Once you click "save" the RSD will use this information to initialize a new empty software page. It will not be public yet, to give you some time to provide additional information.
+![image](/plus-software-projects.gif)
+
+To create a new software page, you must provide a name for your software and a short description of what it does. Once you click "save" the RSD will use this information to 
+initialize a new empty software page. This software page is not be public yet to give you some time to provide additional information.
 
 Next, you can add additional information in the 7 sections explained below. 
 
-## Software information
+## Basic information
 
 In this section you can provide the basic information about the software: 
 
@@ -61,10 +64,26 @@ This section allows user testimonials to be added to the software page. A testim
 
 ## The finished page
 
-Once you are satisfied with the data you have entered for the different sections, you can publish the software page to make it publicly available. Don't hesitate to update and extend the page later!
+Once you are satisfied with the data you have entered for the different sections, you can publish the software page to make it publicly available. Don't hesitate to update and 
+extend the page later!
 
 ![image](/finale.gif)
 
 ## Maintainers
 
 TODO
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+

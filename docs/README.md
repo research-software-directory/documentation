@@ -7,18 +7,17 @@ heroImage: /images/circle.webp
 # heroImageDark: /images/heroDark.webp
 
 actions:
-  - text: Get Started
-    link: /getting-started.html
+  - text: How to get access
+    link: /getting-access.html
     type: primary
-  - text: Introduction
-    link: /introduction/
-    type: secondary
-features:
-  - title: Discover
-    details: Find and judge the relevance and quality of research software.
-  - title: Recognize
-    details: Encourages research software engineers to make their research software findable and accessible, ensuring recognition of their work.
-  - title: Impact
-    details: Facilitates research institutes to showcase the software produced by their organization and monitor its reuse and impact.
-footer: The Netherlands eScience Center
+  - text: How to register organizations
+    link: /register-organization.html
+    type: primary
+  - text: Documentation
+    link: /introduction.html
+    type: primary
+  - text: FAQ
+    link: /faq.html
+    type: primary
+footer: The Netherlands eScience Center and Helmholtz Association
 ---
