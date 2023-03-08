@@ -1,9 +1,11 @@
 // SPDX-FileCopyrightText: 2022 Jesús García Gonzalez (Netherlands eScience Center) <j.g.gonzalez@esciencecenter.nl>
 // SPDX-FileCopyrightText: 2022 Netherlands eScience Center
+// SPDX-FileCopyrightText: 2023 Christian Meeßen (GFZ) <christian.meessen@gfz-potsdam.de>
+// SPDX-FileCopyrightText: 2023 Helmholtz Centre Potsdam - GFZ German Research Centre for Geosciences
 //
 // SPDX-License-Identifier: Apache-2.0
 
-module.exports = {
+let conf = {
   // site config
   lang: 'en-US',
   title: 'RSD Documentation',
@@ -60,6 +62,14 @@ module.exports = {
       },
     ],
   ],
-
-
 }
+
+
+try {
+  conf = require('./custom_config')
+  console.log("Loading custom configuration.")
+} catch (ex) {
+  console.log("No custom configuration found. Using standard configuration.")
+}
+
+module.exports = conf
