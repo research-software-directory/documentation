@@ -37,6 +37,7 @@ module.exports = {
       'online-demo',
       'getting-access',
       'register-organization',
+      'maintain-organisation',
       'adding-software',
       'adding-projects',
       'faq',
