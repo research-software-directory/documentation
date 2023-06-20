@@ -7,19 +7,12 @@ SPDX-License-Identifier: CC-BY-4.0
 
 # Maintaining organisations
 
-Organisations have the opportunity to maintain their representation within the Helmholtz RSD.
+Organisations have the opportunity to maintain their representation within the RSD.
 In order to achieve this, official representatives of the organisation can take on the role of maintainers of their organisation.
-This possibility extends to both Helmholtz organisations and other organisations alike.
 
 ## How to claim an organisation
 
-If you would like to claim an organisation, please contact us via [support@hifis.net](mailto:support@hifis.net?subject=[RSD]%20Claiming%20an%20organisation) and clearly provide the following information:
-
-* Your name
-* Which organisation you represent
-
-We will then contact you to arrange access for your organisation.
-We may reserve the right to demand proof for the right to manage the representation of your organisation (see Art. 4.4 in our [Terms of Service](https://helmholtz.software/page/terms-of-service)).
+If you would like to claim an organisation, please have a look at [Register or claim an organization](register-organization.md).
 
 ## What can organisation maintainers do
 
@@ -43,7 +36,7 @@ Here is an overview of what each of them can do:
 | Remove/change primary maintainer *     |                    |                    |
 | Change organisation URL path *         |                    |                    |
 
-(*) These actions can only be perfomred by administators. If necessary, contact us via [support@hifis.net](mailto:support@hifis.net?subject=[RSD]%20Organisation%20request).
+(*) These actions can only be perfomred by administators. If necessary, contact us via [rsd@esciencecenter.nl](mailto:rsd@esciencecenter.nl).
 
 ### Manage metadata
 
@@ -76,7 +69,7 @@ You can upload a new logo ![Pencil icon](/pencil.png), or remove ![Trash icon](/
 The RSD supports common image formats, e.g. jpg, png or svg.
 
 ::: tip
-If possible, please upload an __SVG__ version of your organisation's logo for optimal visual presentation within the Helmholtz RSD.
+If possible, please upload an __SVG__ version of your organisation's logo for optimal visual presentation within the RSD.
 :::
 
 ### Edit About Section
@@ -94,7 +87,7 @@ A list of existing maintainers will be shown:
 
 ::: warning
 The __primary maintainer__ of an organisation cannot be removed (in this example "Maintainer 1").
-If you want to exchange the primary maintainer, contact us via [support@hifis.net](mailto:support@hifis.net?subject=[RSD]%20Exchange%20primary%20organisation%20maintainer).
+If you want to exchange the primary maintainer, contact us via [rsd@esciencecenter.nl](mailto:rsd@esciencecenter.nl).
 :::
 
 To invite new maintainers, click on __"Generate invite link"__.
