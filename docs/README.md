@@ -10,8 +10,8 @@ actions:
   - text: How to get access
     link: /getting-access.html
     type: primary
-  - text: How to register organizations
-    link: /register-organization.html
+  - text: How to register organisations
+    link: /register-organisation.html
     type: primary
   - text: Documentation
     link: /introduction.html

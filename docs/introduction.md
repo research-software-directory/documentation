@@ -24,4 +24,4 @@ More information about the concepts behind the RSD can be found in this excellen
 
 The Research Software Directory was initiated in 2017 by the [Netherlands eScience Center](https://esciencecenter.nl) as a platform to showcase the research software developed at
 our center. After sucessfully using the RSD for several years, we decided in 2021 to re-engineer the platform so we can offer it as an online service to other research
-organizations. In 2022, our development effort was joined by [HIFIS](https://hifis.net/).
+organisations. In 2022, our development effort was joined by [HIFIS](https://hifis.net/).

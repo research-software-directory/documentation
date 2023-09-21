@@ -11,6 +11,8 @@ module.exports = {
   base: '/documentation/',
   port: '3030',
 
+  head: [['link', { rel: 'icon', href: '/favicon.ico' }]],
+
   themeConfig: {
     logo: '/images/circle.webp',
     // logoDark: '/images/heroDark.webp',
@@ -36,7 +38,7 @@ module.exports = {
       'navigation',
       'online-demo',
       'getting-access',
-      'register-organization',
+      'register-organisation',
       'adding-software',
       'adding-projects',
       'faq',
