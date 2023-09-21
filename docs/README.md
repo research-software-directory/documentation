@@ -12,6 +12,8 @@ actions:
     type: primary
   - text: How to register organizations
     link: /register-organization.html
+  - text: Maintain organisations
+    link: /maintain-organisation.html
     type: primary
   - text: Documentation
     link: /introduction.html
