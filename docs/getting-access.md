@@ -4,7 +4,7 @@ While anyone is free to browse through the content of the RSD, you'll need to be
 Currently, there are two ways to get access:
 
 * You have an [ORCID](https://orcid.org/), and send us a request for access, or
-* Your organisation participates in [SurfConext](https://www.surf.nl/en/surfconext-global-access-with-1-set-of-credentials) and has enabled access to the RSD.
+* Your organisation participates in [SURFconext](https://www.surf.nl/en/surfconext-global-access-with-1-set-of-credentials) and has enabled access to the RSD.
 
 If you wish to add your organisation to the RSD or claim an organisation which is already listed, please have a look at how to [Register an organisation](register-organisation.md).
 
@@ -20,24 +20,24 @@ Please [contact us](mailto:rsd@esciencecenter.nl) if you wish to use ORCID to si
 * Your name.
 * Your affiliation(s).
 * Your ORCID.
-* Example links illustrating the the content you wish to add.
+* Example links illustrating the content you wish to add.
 :::
 
 We will then contact you to arrange access. Once your ORCID sign in is enabled, an RSD account is created automatically the first time you [sign in](getting-access.md#how-to-sign-in).
 
-## Getting access via SURFConext
+## Getting access via SURFconext
 
-[SurfConext](https://www.surf.nl/en/surfconext-global-access-with-1-set-of-credentials) is an identity provider for Dutch research and education institutions. It can be used by
-employees of member organisations to sign in to the RSD using their institute credentials. You can check if your organisation in on the list of [SURFConext
-members](https://support.surfconext.nl/stats/idplist.html). Before you can use SURFConext to sign in, your organisation __must enable the RSD service__ in their SURFconext
+[SURFconext](https://www.surf.nl/en/surfconext-global-access-with-1-set-of-credentials) is an identity provider for Dutch research and education institutions. It can be used by
+employees of member organisations to sign in to the RSD using their institute credentials. You can check if your organisation in on the list of [SURFconext
+members](https://support.surfconext.nl/stats/idplist.html). Before you can use SURFconext to sign in, your organisation __must enable the RSD service__ in their SURFconext
 dashboard.
 
 ::: tip
-You can check [here](https://dashboard.surfconext.nl/apps/9514/oidc10_rp/about) if your organisation has enabled the RSD service in SURFConext.
+You can check [here](https://dashboard.surfconext.nl/apps/9514/oidc10_rp/about) if your organisation has enabled the RSD service in SURFconext.
 :::
 
-If your organisation is has not enabled the RSD service yet, please contact your local SURFConext representative, and ask them to contact us via the
-[RSD administrators](mailto:rsd@esciencecenter.nl) email. In the mean time you may use the ORCID sign in described above as an alternative.
+If your organisation has not enabled the RSD service yet, please contact your local SURFconext representative, and ask them to contact us via the
+[RSD administrators](mailto:rsd@esciencecenter.nl) email. In the meantime you may use the ORCID sign in described above as an alternative.
 
 Once your organisation has enabled the RSD service in SURFConext, you should be able to sign in to the RSD using your institute credentials. An RSD account is created automatically
 the first time you [sign in](getting-access.md#how-to-sign-in).

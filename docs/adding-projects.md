@@ -59,7 +59,7 @@ In the top right corner of the page, you can find a **"View page"** link, which 
 
 ![image](/view-and-publish.gif)
 
-The **"Published** slider can be use to make the page public once you are satisfied with the result.
+The **"Published** slider can be used to make the page public once you are satisfied with the result.
 
 To return to editing the page use the ![image](/edit-page.gif) link in the top right.
 
@@ -79,7 +79,7 @@ You can correct the available information and add any missing fields before addi
 project. Therefore, you can safely change information about this person without having an effect on any other project the person is involved in.
 
 ::: danger
-When manually adding team members or adding images or email adresses of persons, please ensure you have **persmission** to share this information!
+When manually adding team members or adding images or email addresses of persons, please ensure you have **permission** to share this information!
 :::
 
 ## Contributing Organisations

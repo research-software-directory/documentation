@@ -7,11 +7,11 @@ SPDX-License-Identifier: CC-BY-4.0
 
 # Making a release
 
-To make a new release we use github action release_manual.yml to manually release all modules at once.
+To make a new release we use GitHub action release_manual.yml to manually release all modules at once.
 
 Follow these steps to call release action.
 
-- navigate to [github actions](https://github.com/research-software-directory/RSD-as-a-service/actions)
+- navigate to [GitHub actions](https://github.com/research-software-directory/RSD-as-a-service/actions)
 - select `create release draft (manual)` action
 - on the right you select "Run workflow". Ensure "main" brand is selected and click on "Run workflow"
 
@@ -30,11 +30,11 @@ Follow these steps to call release action.
 - update citation file with new version number and release date
 - make deployment.zip file where all files needed for deployment are included
 - commit new CITATION.cff file with message 'release: update citation file'
-- create github release (draft) and include information from changelog and deployment.zip
+- create GitHub release (draft) and include information from changelog and deployment.zip
 
 ## Removing draft release
 
-If you need to remove draft release you can do that via [github interface](https://github.com/research-software-directory/RSD-as-a-service/releases)
+If you need to remove draft release you can do that via [GitHub interface](https://github.com/research-software-directory/RSD-as-a-service/releases)
 
 ## Removing tags
 
