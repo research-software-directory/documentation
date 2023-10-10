@@ -6,11 +6,11 @@ SPDX-License-Identifier: CC-BY-4.0
 -->
 
 # User Guide
-Documentation in progress. 
+
+Documentation in progress.
 
 ## Software Packages
 
 ## Projects
 
-## Organizations
-
+## Organisations

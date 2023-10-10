@@ -7,4 +7,4 @@ SPDX-License-Identifier: CC-BY-4.0
 
 # Data Scraping
 
-Documentation in progress. 
+Documentation in progress.

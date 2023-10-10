@@ -7,4 +7,4 @@ SPDX-License-Identifier: CC-BY-4.0
 
 # API
 
-API Documentation in progress. 
+API Documentation in progress.
