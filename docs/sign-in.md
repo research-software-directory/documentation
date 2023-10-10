@@ -9,7 +9,7 @@ SPDX-License-Identifier: CC-BY-4.0
 
 Before you can add content to the RSD, you need to be able to sign in using one of the supported identity providers:
 
-* [SurfConext](https://www.surf.nl/en/surfconext-global-access-with-1-set-of-credentials)
+* [SURFconext](https://www.surf.nl/en/surfconext-global-access-with-1-set-of-credentials)
 * [ORCID](https://orcid.org/)
 
 More information on how to get access via these identify providers can be found in [How to get an account](getting-access.md).
@@ -22,17 +22,17 @@ To sign in to the RSD, go to the __"Sign in"__ button at the top right corner of
 
 If you sign in to the RSD for the first time, the identify provider may ask you permission to share information with the RSD.
 
-### Signing in with SURFConext
+### Signing in with SURFconext
 
-[SurfConext](https://www.surf.nl/en/surfconext-global-access-with-1-set-of-credentials) is an identity provider for Dutch research and education institutions. It can be used by
+[SURFconext](https://www.surf.nl/en/surfconext-global-access-with-1-set-of-credentials) is an identity provider for Dutch research and education institutions. It can be used by
 employees of these organisations to sign in to the RSD using their institute credentials. Before they can do so, however, an organisation __must enable the RSD service__ in their
 SURFconext dashboard.
 
 ::: tip
-You can check [here](https://dashboard.surfconext.nl/apps/9514/oidc10_rp/about) if your organisation has enabled the RSD service in SURFConext.
+You can check [here](https://dashboard.surfconext.nl/apps/9514/oidc10_rp/about) if your organisation has enabled the RSD service in SURFconext.
 :::
 
-To sign in using SURFConext, go to the "sign in" button at the top right corner of the page and select the __SURFConext__ identity provider. Next, select the
+To sign in using SURFconext, go to the "sign in" button at the top right corner of the page and select the __SURFconext__ identity provider. Next, select the
 appropriate organisation and then enter your credentials in the organisation specific sign in page that follows.
 
 ### Signing in with ORCID

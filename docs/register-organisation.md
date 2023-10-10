@@ -7,7 +7,7 @@ If you wish to officially add your organisation to the RSD, or claim an organisa
 * Which organisation you represent.
 
 We will then contact you to arrange access for your organisation. Once your organisation is registered,
-this will indicated by a verification checkmark on the card of your organisation:
+this will be indicated by a verification checkmark on the card of your organisation:
 
 ![image](/example-organisation.webp)
 
