@@ -11,7 +11,7 @@ module.exports = {
   base: '/documentation/',
   port: '3030',
 
-  head: [['link', { rel: 'icon', href: '/favicon.ico' }]],
+  head: [['link', { rel: 'icon', href: '/documentation/favicon.ico' }]],
 
   themeConfig: {
     logo: '/images/circle.webp',
