@@ -1,0 +1,1 @@
+import{_ as a,o as t,c as r,F as n,a as e,d as o}from"./app.e696d174.js";const s={},c=e("h1",{id:"api",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#api","aria-hidden":"true"},"#"),o(" API")],-1),i=e("p",null,"API Documentation in progress.",-1);function _(d,l){return t(),r(n,null,[c,i],64)}var p=a(s,[["render",_],["__file","api.html.vue"]]);export{p as default};

@@ -1,0 +1,1 @@
+const t={key:"v-0d9af0f8",path:"/api.html",title:"API",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1695295432e3,contributors:[{name:"Dusan Mijatovic (PC2020)",email:"d.mijatovic@dv4all.nl",commits:1},{name:"Jesu\u0301s Garci\u0301a",email:"ctw@ctwhome.com",commits:1}]},filePathRelative:"api.md"};export{t as data};
