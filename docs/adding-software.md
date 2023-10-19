@@ -9,7 +9,7 @@ SPDX-License-Identifier: CC-BY-4.0
 
 Before you can add software, you will need have access to the RSD (see [How to get access](getting-access.md)) and [Sign in](getting-access.md#how-to-sign-in).
 
-After signing in, you can use the __"+"__ button next to your avatar icon on the top right of the page, and from the drop down menu select "New Software":
+After signing in, you can use the __"+"__ button next to your avatar icon on the top right of the page, and from the drop-down menu select "New Software":
 
 ![image](/plus-software-projects.gif)
 
@@ -26,7 +26,8 @@ In this section you can provide the basic information about the software:
 - A **Source code repository URL** of the software. This link will show up as a repository icon on the software page and will be used to harvest information about the software development activity, which will be shown as a graph. At the moment we support [GitHub](https://github.com/), [GitLab](https://about.gitlab.com/) and have limited support for [Bitbucket](https://bitbucket.org/product/).
 - A more extensive **Description** of the software, which will be shown on the software page. You can use markdown to write this description, or import an existing markdown file from the web.
 - A **concept DOI** for the archived releases of the software. This concept DOI will be used to automatically detect new releases of your software, and generate the block with citation information shown on the software page. You can find more information on concept DOIs and how to create them [here]().
-- *Keyword*s describing the software. These will be shown in the sidebar of the software page. If you have provided a concept DOI, the keywords can also be imported from the archive metadata.
+- A **Logo**, which will be shown on the software page and on the various overview pages.
+- **Keywords** describing the software. These will be shown in the sidebar of the software page. If you have provided a concept DOI, the keywords can also be imported from the archive metadata.
 - The **License** of the software. This will be shown in the sidebar of the software page. If you have provided a concept DOI, the license can also be imported from the archive metadata.
 
 ![image](/software-information.gif)
@@ -56,11 +57,38 @@ To add a mention, you can use the search bar below "Find publication" to search 
 
 ![image](/mentions.gif)
 
+### Bulk import
+
+It is also possible to bulk add mentions, that have a DOI, to the page. On the right hand side of the page, click on the *Import* button. On the popup, you can add one DOI per line, with a maximum of 50. After clicking on the *Next* button, we will fetch the data, which can take a moment. When that is done, you will see an overview of the data we fetched, including possible errors, where you can check the data and possibly disable some of the mentions. You can then add the mentions by clicking on the *Import* button.
+
 ## Testimonials
 
 This section allows user testimonials to be added to the software page. A testimonial consist of a quote and a source.
 
 ![image](/testimonials.gif)
+
+## Package managers
+
+If your software is available through a package manager like Anaconda, PyPi or Docker Hub, you can add links to those here. We will use these to scrape some data like download count and the number of packages that depend on your software. We do not show this info on the public view of your page, as we're still in the process of figuring out how much data we can harvest and how to present this in the best way. It would therefore be very helpful if you add this information to your software page.
+
+We currently support the following package managers:
+
+- [Anaconda](https://anaconda.org/)
+- [Cran](https://cran.r-project.org/web/packages/index.html)
+- [Docker Hub](https://hub.docker.com/search?q=)
+- [Maven](https://mvnrepository.com/)
+- [npm](https://www.npmjs.com/)
+- [PyPI](https://pypi.org/)
+
+If your package manager is not listed above, you can still add it, but we will categorise it as *other* and cannot scrape it yet. You can [open an GitHub issue](https://github.com/research-software-directory/RSD-as-a-service/issues) (please check for existing issues first) or contact us if you want us to support an additional package manager.
+
+## Related topics
+
+The various related topics sections can be used to link related projects and software pages in the RSD to this software page. Items can be added by simply typing (part) of the name in either search bars, and selecting the desired item from the search result list.
+
+## Maintainers
+
+Here, you can see all the people who can maintain this software page. You can also create invitation links to send to people you want to give maintainer access and see and delete all unused invitations.
 
 ## The finished page
 
@@ -68,7 +96,3 @@ Once you are satisfied with the data you have entered for the different sections
 extend the page later!
 
 ![image](/finale.gif)
-
-## Maintainers
-
-TODO

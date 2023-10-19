@@ -21,7 +21,7 @@ The RSD will automatically generate a *slug* for your project based on the proje
 There is a small chance the generated slug is already in use by another project. If this is the case, an error will be show and you will need to change the slug resolve this conflict.
 
 ::: warning
-After you save the project page the slug can no longer be changed! You can still change the title or subtitle of the project however.
+After you save the project page the slug can no longer be changed! You can still change the title or subtitle of the project, however.
 :::
 
 Once you click __"save"__ the RSD will initialize a new empty project page. This page will not be public yet to give you some time to provide additional information.
@@ -44,7 +44,7 @@ In addition, the sidebar on the right shows:
 - A **start date** and **end date**
 - A **Grant ID**
 - The **funding organisation(s)** as listed in the RSD or the [ROR database](https://ror.org)
-- A list of relevant **Project links** (such as a project web page, github organisation, etc.)
+- A list of relevant **Project links** (such as a project web page, GitHub organisation, etc.)
 - The **Research domain(s)** of this project (as defined by the [ERC](https://erc.europa.eu/news/new-erc-panel-structure-2021-and-2022))
 - **Keywords** for this project
 
@@ -59,7 +59,7 @@ In the top right corner of the page, you can find a **"View page"** link, which 
 
 ![image](/view-and-publish.gif)
 
-The **"Published** slider can be used to make the page public once you are satisfied with the result.
+The **Published** slider can be used to make the page public once you are satisfied with the result.
 
 To return to editing the page use the ![image](/edit-page.gif) link in the top right.
 
@@ -68,10 +68,10 @@ To return to editing the page use the ![image](/edit-page.gif) link in the top r
 ![image](/project-team-information.gif)
 
 On this page, you can add team members to the project. Using the search bar on the left, you can search for persons registered in the RSD and [ORCID](https://orcid.org) databases
-using their name or ORCID. To add a team member, select the person from the drop down list of search results, or select "Add ...." to manually add a person if no information
+using their name or ORCID. To add a team member, select the person from the drop-down list of search results, or select "Add ...." to manually add a person if no information
 is found in the RSD or ORCID.
 
-Next, a pop up appears with the information available on this team member:
+Next, a pop-up appears with the information available on this team member:
 
 ![image](/person-information.gif)
 
@@ -87,10 +87,10 @@ When manually adding team members or adding images or email addresses of persons
 ![image](/project-add-organisation.gif)
 
 On this page, you can add participating organisations to the project. Using the search bar on the left, you can search for organisations listed in the RSD and [ROR](https://ror.org)
-databases using their name or ROR identifier. To add a participating organisation, select the organisation from the drop down list of search results, or select "Add ...." to
+databases using their name or ROR identifier. To add a participating organisation, select the organisation from the drop-down list of search results, or select "Add ...." to
 manually add an organisation if no information is found in the RSD or ROR.
 
-Next, a pop up appears with the information available on this organisation:
+Next, a pop-up appears with the information available on this organisation:
 
 ![image](/project-add-organisation-details.gif)
 
@@ -128,12 +128,12 @@ Please check if the information is complete and correct. A manual item can not b
 
 ![image](/project-related-topics.gif)
 
-The related topics section can be used to link related projects and software pages in the RSD to this project page. Items can be added by simply typing (part) of the name in either
+The various related topics sections can be used to link related projects and software pages in the RSD to this project page. Items can be added by simply typing (part) of the name in either
 search bars, and selecting the desired item from the search result list.
 
 ## Maintainers
 
-TODO
+Here, you can see all the people who can maintain this project page. You can also create invitation links to send to people you want to give maintainer access and see and delete all unused invitations.
 
 ## The finished page
 
